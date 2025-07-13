@@ -100,7 +100,7 @@ An **optimized version** using:
 This project was built as a semester-long submission for the **Data Structures** course.
 
 - GitHub: [@Asra-Bukhari](https://github.com/Asra-Bukhari)
-- Repo: [Complaint Management System](https://github.com/Asra-Bukhari/complaint-service-portal)
+- Repo: [Complaint Service Portal](https://github.com/Asra-Bukhari/complaint-service-portal)
 
 ---
 
