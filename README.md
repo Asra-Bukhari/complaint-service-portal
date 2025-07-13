@@ -1,4 +1,4 @@
-# Complaint Management System
+# Complaint Service Portal
 
 A console-based Complaint Management System developed in **C++** using core data structures. This was a semester project focused on building a practical and efficient system to handle user complaints with registration, retrieval, prioritization, and country-wise filtering features.
 
@@ -100,7 +100,7 @@ An **optimized version** using:
 This project was built as a semester-long submission for the **Data Structures** course.
 
 - GitHub: [@Asra-Bukhari](https://github.com/Asra-Bukhari)
-- Repo: [Complaint Management System](https://github.com/Asra-Bukhari/Complaint-Management-System)
+- Repo: [Complaint Management System](https://github.com/Asra-Bukhari/complaint-service-portal)
 
 ---
 
